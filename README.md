@@ -1,4 +1,4 @@
-Title: Sentiment annotated news corpus and sentiment lexicon in Slovene
+itle: Sentiment annotated news corpus and sentiment lexicon in Slovene
 
 Author: Jože Bučar, Faculty of Information Studies Novo mesto (contact: joze.bucar@gmail.com)
 
