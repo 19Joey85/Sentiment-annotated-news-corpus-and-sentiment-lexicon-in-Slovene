@@ -13,7 +13,7 @@ Web resources:
 - ToTaLe text analyser for Slovene texts - Tokanizer, Tagger and Lemmatizer for Slovene texts, Department of Knowledge Technologies, Jožef Stefan Institute (http://nl.ijs.si/analyse/)
 - List of Slovenian words, Fran Ramovš Institute of Slovenian Language ZRC SAZU (http://bos.zrc-sazu.si/besede_en.html)
 
-Type: .txt, .csv, .xlsx, .zip
+Type: .txt, .R, .zip
 
 Encoding: UTF-8
 
