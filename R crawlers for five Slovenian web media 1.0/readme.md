@@ -3,7 +3,7 @@
 Author: Jože Bučar, Faculty of Information Studies Novo mesto (contact: joze.bucar@gmail.com)
 
 Abstract:
-Five web-crawlers written in the R language for retrieving Slovenian news texts from the portals 24ur, Dnevnik, Finance, Rtvslo, and Žurnal24. These portals contain political, business, economic and financial content. Web crawlers are written in R language.
+Five web-crawlers written in the R language for retrieving Slovenian news texts from the portals 24ur, Dnevnik, Finance, Rtvslo, and Žurnal24. These portals contain political, business, economic and financial content.
 
 Keywords:
 web-crawling, R
