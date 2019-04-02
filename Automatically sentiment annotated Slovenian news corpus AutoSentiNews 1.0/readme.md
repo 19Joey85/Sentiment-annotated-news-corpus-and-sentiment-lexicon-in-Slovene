@@ -48,6 +48,19 @@ This work was supported by the European Union, The European Regional Development
 Citation:
 If you are a scientist and use the wordlists or code you can cite this publication:
 
+@article{buvcar2018annotated,
+  title={Annotated news corpora and a lexicon for sentiment analysis in Slovene},
+  author={Bu{\v{c}}ar, Jo{\v{z}}e and {\v{Z}}nidar{\v{s}}i{\v{c}}, Martin and Povh, Janez},
+  journal={Language Resources and Evaluation},
+  volume={52},
+  number={3},
+  pages={895--919},
+  year={2018},
+  publisher={Springer}
+}
+
+or
+
 @inproceedings{buvcar2016sentiment,
   title={Sentiment Classification of the Slovenian News Texts},
   author={Bu{\v{c}}ar, Jo{\v{z}}e and Povh, Janez and {\v{Z}}nidar{\v{s}}i{\v{c}}, Martin},
